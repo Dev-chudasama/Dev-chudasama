@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning B.tech cse
 - 💞️ I’m looking to collaborate with code
-- 📫 How to reach me insta-@itz_mr_dc_9
+- 📫 How to reach me insta-@dev._.chudasama
 
 
 <!---
